@@ -1,0 +1,139 @@
+# Golang Developer Roadmap - Na Prática
+
+Estudos em Go feitos com base no conteúdo do repositório
+[Alikhll/golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap).
+
+## Tópicos
+
+- **Go**
+  - Go CLI
+  - Variables, Constants, Types, Function, Packadges etc
+  - Array e Slices
+  - Pointers, Structures, Methods
+  - Interface
+  - GoRoutine, Channel, Buffer, Select, Mutex
+  - Defer, Error, Panic, Recover
+- **Go Modules**
+  - Ferramenta de gerenciamento de dependências
+  - Versionamento Semântico
+  - Version, Scripts, Repository e outras Propriedades
+- **Fundamentos de SQL**
+  - Básico de sintaxe SQL
+- **Habilidades Gerais de Desenvolvimento**
+  - Git
+  - HTTP/HTTPS
+  - Estruturas de Dados e Algoritmos
+  - Scrum, Kanban ou outras estratégias de gerenciamento de projetos
+  - Autenticação básica, OAuth, JWT etc
+  - SOLID, YAGNI, KISS
+- **CLI**
+  - Cobra
+  - urfave/cli
+- **Frameworks Web + Routers**
+  - Beego
+  - Chi
+  - Echo
+  - Fiber
+  - Gin
+  - Revel
+- **ORMs**
+  - Gorm
+  - Xorm
+- **Bancos de Dados**
+  - Relacionais
+    - SQL Server
+    - MySQL
+    - MariaDB
+    - CockroachDB
+    - PostgreSQL
+  - Nuvem
+    - Azure CosmosDB
+    - Amazon DynamoDB
+  - NoSQL
+    - MongoDB
+    - Redis
+    - Apache Cassandra
+    - RavenDB
+    - CouchDB
+  - Motores de Busca
+    - ElasticSearch
+    - Solr
+    - Sphinx
+- **Cache**
+  - GCache
+  - Cache Distribuído
+    - Go-Redis
+    - GoMemcache
+- **Logging**
+  - Sistema de Gestão de Logs
+    - Sentry.io
+    - loggly.com
+  - Tracing Distribuído
+    - Jaeger
+  - Frameworks de Logs
+    - Zap
+    - ZeroLog
+    - Logrus
+- **Comunicação em Tempo Real**
+  - Melody
+  - Centrifugo
+- **API Clients**
+  - GraphQL
+    - graphql-go
+    - gqlgen
+  - REST
+    - Gentelman
+    - GRequests
+    - Heimdall
+- **Testes**
+  - Testes Unitários
+    - Mocks
+      - GoMock
+    - Frameworks e Asserções
+      - Testify
+      - Ginkgo
+      - GoMega
+      - GoCheck
+  - Testes de Comportamento
+    - GoDog
+    - GoConvey
+    - Ginkgo
+  - Testes de Integração
+    - Testify
+    - Ginkgo
+  - Testes E2E
+    - Selenium
+    - Endly
+- **Libs Boas Para Se Conhecer**
+  - Validator
+  - Glow
+  - GJson
+  - Authboss
+  - Go-Underscore
+- **Microsserviços**
+  - Message-Broker
+    - RabbitMQ
+    - Apache Kafka
+    - ActiveMQ
+    - Azure Service Bus
+  - Building Event-Driven
+    - Watermill
+    - Message-Bus
+  - Frameworks
+    - rpcx
+    - Go-kit
+    - Micro
+  - RPC
+    - Protocol Buffers
+    - gRPC-Go
+    - gRPC-Gateway
+    - twirp
+- **Padrões Go**
+  - Creational
+  - Structural
+  - Behavioral
+  - Synchronization
+  - Concurrency
+  - Messaging
+  - Stability
+
