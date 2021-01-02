@@ -7,7 +7,7 @@ Estudos em Go feitos com base no conteúdo do repositório
 
 - **Go**
   - Go CLI
-  - Variables, Constants, Types, Function, Packadges etc
+  - Variables, Constants, Types, Function, Packages etc
   - Array e Slices
   - Pointers, Structures, Methods
   - Interface
